@@ -1,4 +1,4 @@
-### Market Basket Analysis with Apriori Algorithm
+# Market Basket Analysis with Apriori Algorithm
 Developed a Market Basket Analysis project using the Apriori algorithm in Python
 
 ## Overview
