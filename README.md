@@ -47,7 +47,7 @@ Converted the aggregated item descriptions into a one-hot encoded format suitabl
 ## Installation and Setup
 To run this project, install the required libraries using pip:
 
-**pip install pandas mlxtend matplotlib seaborn**
+ **pip install pandas mlxtend matplotlib seaborn**
 
 ## Results
 
